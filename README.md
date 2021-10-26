@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Allyson 👋
 
 - 🌱 I’m currently learning Computer Engineering on Universidade Anhembi Morumbi  
-- 🌱 I'm currently specializing in java and Python on Alura and Geek University
+- 🌱 I'm currently specializing in java and Python on Alura, DIO and Geek University
 - 👯 I’m looking to collaborate on Dev. Market
 
 <div align="center">
