@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Engineering on Universidade Anhembi Morumbi  
 - 🌱 I'm currently specializing in Java and Python on Alura, DIO and Geek University
 - 👯 I’m looking to collaborate on Dev. Market
-- 🧔‍♂️ Pronouns: Him/his
+- 🤖 Pronouns: Him/his
 
 <div align="center">
   <a href="https://github.com/allayzon/">
