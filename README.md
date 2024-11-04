@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Engineering on Universidade Anhembi Morumbi  
 - 🌱 I'm currently specializing in Java and Python on Alura, DIO and Geek University
 - 💻 I work at Avanade
-- 🧑 I'm 20 years old	
+- 🧑 I'm 21 years old	
 - 🤖 Pronouns: Him/his
 
 <div align="center">
